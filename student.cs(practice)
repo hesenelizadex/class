@@ -1,0 +1,9 @@
+ namespace ConsoleApp3
+{
+    internal class Student : Person
+    {
+        
+
+        public string SchoolName { get; set; }
+    }
+}
