@@ -1,0 +1,11 @@
+namespace ConsoleApp3
+{
+    internal class Worker : Person
+    {
+        
+
+        public string WorkPlace { get; set; }
+
+
+    }
+}
