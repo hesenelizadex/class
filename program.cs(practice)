@@ -1,0 +1,18 @@
+using ConsoleApp3;
+using System;
+namespace HelloWorld
+{
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Student student = new Student();
+            Worker worker = new Worker();
+            Console.WriteLine(student.Surname);
+
+
+
+        }
+    }
+}
